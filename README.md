@@ -1,16 +1,28 @@
-## Hi there 👋
 
-<!--
-**avisarz/avisarz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# ITAY AVISAR
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+`C++` · `Assembly` · `Kernel`
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=2" width="100%"/>
+
+</div>
+
+```text
+C++         ████████████████████
+ASSEMBLY    ████████████████████
+KERNEL      ████████████████████
+```
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=888888&icon_color=ffffff&include_all_commits=true"/>
+
+</div>
+
+<div align="center">
+
+[EMAIL](mailto:itayavisar44@gmail.com)
+
+</div>
