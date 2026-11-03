@@ -21,6 +21,6 @@ KERNEL
 
 <div align="center">
 
-[EMAIL](mailto:itayavisar44@gmail.com)
+itayavisar44@gmail.com
 
 </div>
