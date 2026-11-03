@@ -10,14 +10,14 @@
 </div>
 
 ```text
-C++         ████████████████████
-ASSEMBLY    ████████████████████
-KERNEL      ████████████████████
+C++         
+ASSEMBLY   
+KERNEL      
 ```
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=888888&icon_color=ffffff&include_all_commits=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=avisarz&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=888888&icon_color=ffffff&include_all_commits=true"/>
 
 </div>
 
